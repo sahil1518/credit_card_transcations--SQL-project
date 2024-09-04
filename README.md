@@ -1,6 +1,13 @@
  credit_card_transcations--SQL-project
 
 
+![image](https://github.com/user-attachments/assets/7927f115-830c-4a2e-8fc1-c7e81c6c2507)
+
+
+
+ 
+
+
 
 1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
 
